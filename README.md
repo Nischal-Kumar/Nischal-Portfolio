@@ -1,5 +1,5 @@
 # Nischal Kumar's Portfolio
-This is a portfolio website for Nischal Kumar, a web developer, showcasing his projects, skills, and contact information.
+This is a portfolio website showcasing the projects, skills, and contact information.
 
 # Features
 Responsive design for various screen sizes.
